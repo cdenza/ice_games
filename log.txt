@@ -1,0 +1,38 @@
+Start project 5:38pm Sept 24 2024 - Day 1
+
+1. 5:38 - 8:14
+Initialize project and begin organizing df given for project. Most of step 2...
+Completed all of step 2: data prep, next is step 3 data analysis taking a break.
+
+2. 8:35 - 9:59
+Moving on to Data Analysis.
+This is harder and more intensive. I make mistakes and change what I just wrote. Hopefully fresh eyes will help tomorrow.
+
+End Sept 24 2024 - Day 1
+Begin Sept 25 2024 - Day 2
+
+3. 11:45 - 1:30
+Continuing DA. Went well after initial hump getting into it. Moving along nicely. 
+
+End Sept 25 2024 - Day 2
+Begin Sept 26 2024 - Day 3
+
+4. 11:30 - 12:00
+Small stop gap of work to tidy and prepare for final step of organizing data together
+
+End Sept 26 2024 - Day 3
+Begin Sept 27 2024 - Day 4
+
+5. 11:00 - 1:50
+Large amount of work done for steps 4 and 5. Wrapped up Step 3 as well!
+
+6. 2:42 - 
+Formulate conclusions and tidy notebook. 
+
+
+✔ Step 1: Review
+✔ Step 2: Prepare
+✔ Step 3: Analyze
+✔ Step 4: Profiles
+✔ Step 5: Test Hypothesis
+  Step 6: Clean and Format and Conclusion
